@@ -1,0 +1,7 @@
+{
+  "name": "daftar_tugas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
